@@ -20,9 +20,11 @@ Responda `1` para `Sim` ou `2` para `Nao` às seguintes perguntas que serão fei
 `Fazer push do codigo fonte para o GitHub?`
 - Sim: Atualiza seu código fonte no repositório do GitHub
 - Nao: Não faz nada e vai para a próxima pergunta
+
 `Gerar o site (jekyll build)?`
 - Sim: Gera uma nova versão do seu site com o comando `jekyll build`
 - Nao: Não faz nada e vai para a próxima pergunta
+
 `Atualizar sua GitHub page com o site gerado?`
 - Sim: Envia o conteúdo do seu site para seu GitHub Page. Isso atualiza imediatamente o conteúdo do seu site
 - Nao: Não faz nada e termina o script
