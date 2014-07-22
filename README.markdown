@@ -10,6 +10,7 @@ Utilizando:
 
 <code>
 $ cd /meu/blog/dir
+
 $ jekyll_commit "Descricao do commit" master
 </code>
 
