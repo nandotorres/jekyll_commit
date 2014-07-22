@@ -8,11 +8,8 @@ Este é um script simples para ajudar no gerenciamento de blogs com Jekyll, GitH
 
 Utilizando:
 
-<code>
-$ cd /meu/blog/dir
-
-$ jekyll_commit "Descricao do commit" master
-</code>
+`$ cd /meu/blog/dir`
+`$ jekyll_commit "Descricao do commit" master`
 
 `master` é o branch no qual quer commitar seu código fonte. Entretanto, por padrão, o seu site gerado será sempre enviado para o branch master no GitHub Pages.
 
